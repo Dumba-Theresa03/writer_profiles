@@ -13,7 +13,7 @@ function ProfileCard({writer}) {
 
                 <button className='actionBtn'>Read Bio</button>
             </div>
-        </div>
+        </ div>
     )
     
 }
